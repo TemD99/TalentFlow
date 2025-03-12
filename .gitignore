@@ -1,5 +1,5 @@
 # Ignore SQLite database files
 *.db
-
+*.env
 # Ignore the chromeprofile folder
 chromeprofile/
